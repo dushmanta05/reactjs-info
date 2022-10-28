@@ -116,6 +116,7 @@ main {
     background-image: url(./assets/react-icon-light.png);
     background-repeat: no-repeat;
     background-position: right center;
+    flex: 1 1 auto;
     background-color: white;
     padding: 57px 27px;
     color: #2B283A;
